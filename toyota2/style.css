@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+html{
+    font-size: 100%;
+}
+body{
+    font-family: 'Alata', 'Midashi Go MB31' ,'Noto Sans JP', sans-serif;
+    font-weight: 500;
+    line-height: 3.5vw;
+}
+p{
+    font-size: 1.7vw;
+    color: #fff;
+}
+.left, .right{
+    display: none;
+}
